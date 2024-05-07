@@ -1,0 +1,113 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#about{
+    font-size: 20px;
+    margin-top: -27px;
+    margin-left: 300px;
+    width: 53px;
+    color: gray;
+}
+#image1{
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 30px;
+    cursor: pointer;
+}
+#image2{
+    width: 30px;
+    margin-top: -25px;
+    margin-left: 550px;
+    height: 25px;
+    cursor: pointer;
+    position: absolute;
+}
+a:visited {
+    color: blue;
+  }
+  a:hover {
+    color: green;
+  }
+  a:active {
+    color: red;
+}
+#about:hover{
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+}
+#work{
+    font-size: 20px;
+    margin-top: -21px;
+    margin-left: 400px;
+    width: 50px;
+    color: gray;
+}
+
+#work:hover{
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+    scale: 1.1;
+}
+#p{
+    color: rgb(75, 75, 75);
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+a{
+    font-weight: bold;
+}
+button{
+    font-size: 25px;
+    width: 70px;
+    background: transparent;
+    border: none;
+    margin-top: 55px;
+    margin-left: 165px;
+    box-shadow: 0px 6px 6px lightgray;
+}
+button:hover{
+    transition: black;
+    text-decoration: underline;
+    color: green;
+}
+#army{
+    font-size: 70px;
+    margin-top: 100px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+#image2:hover{
+    scale: 1.2;
+}
+#image1:hover{
+    scale: 1.2;
+}
+#picture1{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin-top: -372px;
+    margin-left: 660px;
+}
+#picture2{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin-top: -372px;
+    margin-left: 960px;
+}
+#picture3{
+    width: 600px;
+    height: 290px;
+    margin-top:-72px;
+    margin-left:660px;
+    position: absolute;
+}
